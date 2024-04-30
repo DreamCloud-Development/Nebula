@@ -11,7 +11,7 @@
       "id": "MAGICSTEAMS-1.20.1",
       "name": "MAGICSTEAMS (Minecraft 1.20.1)",
       "description": "MAGICSTEAMS Running Minecraft 1.20.1 (Forge v47.2.30)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/b4d34205f3deae5f6d78c33981e3cfe654763dd3.png",
       "version": "1.0.0",
       "address": "odyssey.vaatigames.ovh:25510",
       "minecraftVersion": "1.20.1",
@@ -431,6 +431,323 @@
               }
             }
           ]
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "com.teamabnormals.blueprint.core:blueprint:7.0.3@jar",
+          "name": "Blueprint",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1080111,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/blueprint-1.20.1-7.0.3.jar",
+            "MD5": "5de73c92ef657eeaffc1675d8409ec9b"
+          }
+        },
+        {
+          "id": "com.abdelaziz:canary:0.3.3@jar",
+          "name": "Canary",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 594191,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/canary-mc1.20.1-0.3.3.jar",
+            "MD5": "1bd8bdb43c190ddc671c5ea0bf3b8cb1"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.5.4@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3181461,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/citadel-2.5.4-1.20.1.jar",
+            "MD5": "969652401ee0ad6d803b4dd588378c5a"
+          }
+        },
+        {
+          "id": "plus.dragons.createenchantmentindustry:create_enchantment_industry:1.2.9.c@jar",
+          "name": "Create Enchantment Industry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 495026,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar",
+            "MD5": "cd0711e49741db36db7e44782344f12a"
+          }
+        },
+        {
+          "id": "com.simibubi:create:0.5.1.f@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14964127,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
+            "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_structures:0.1.1@jar",
+          "name": "Create: Structures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 484781,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/create-structures-0.1.1-1.20.1-FORGE.jar",
+            "MD5": "0cb30674cab22e70fd710c9ac16e2e99"
+          }
+        },
+        {
+          "id": "com.github.talrey:createdeco:2.0.1-1.20.1-forge@jar",
+          "name": "Create Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2854352,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/createdeco-2.0.1-1.20.1-forge.jar",
+            "MD5": "cb5dd36b4275e360b34f44fd9aebef96"
+          }
+        },
+        {
+          "id": "com.robocraft999:creategoggles:0.5.5.g@jar",
+          "name": "Create Goggles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 217121,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/creategoggles-1.20.1-0.5.5.g-[FORGE].jar",
+            "MD5": "9aa05ac329917e19c74b17022a1a7803"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.8.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 380722,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/curios-forge-5.8.1+1.20.1.jar",
+            "MD5": "01d88c09639a20569ac9dea5f4a33ea6"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.14+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1005465,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/embeddium-0.3.14+mc1.20.1.jar",
+            "MD5": "c4fef934a7f399029f3868253c69a292"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.6.2@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62127,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/entityculling-forge-1.6.2-mc1.20.1.jar",
+            "MD5": "c04b2447b7b3f625c37535eb82ad5bdc"
+          }
+        },
+        {
+          "id": "io.github.bumblesoftware.fastload.init:fastload:3.4.0@jar",
+          "name": "Fastload-Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66989,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "MD5": "3266e638032dc9b957bf1e7372671c05"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123034,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.4.4@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 989965,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.4.jar",
+            "MD5": "a11a50fc1ad1a1ea7d406372907b1d62"
+          }
+        },
+        {
+          "id": "generated.forgemod:heroes:1.1.61@jar",
+          "name": "Heroes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2585214,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/Heroes_Beta_Forge_Fabric_V.1.1.61.jar",
+            "MD5": "1396601ec6b9e62df3e86e5b9e882d9a"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:iceandfire:2.1.13-1.20.1-beta-4@jar",
+          "name": "Ice and Fire",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21767038,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-4.jar",
+            "MD5": "18ebf4cd486496eed354fd973e5e74d8"
+          }
+        },
+        {
+          "id": "com.sudolev:interiors:0.5.3+forge-mc1.20.1@jar",
+          "name": "Create: Interiors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 578627,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/interiors-0.5.3+forge-mc1.20.1.jar",
+            "MD5": "7e0628d2158deab9e927f593476ee820"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.3.0.4@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1127828,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/optionaloff/jei-1.20.1-forge-15.3.0.4.jar",
+            "MD5": "8f2c0bbb8f691be76f0b44c1d61d94e7"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "dev.latvian.mods:kubejs:2001.6.5-build.7@jar",
+          "name": "KubeJS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1651674,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.7.jar",
+            "MD5": "af76fc8f23458213eaae50a6af2cb277"
+          }
+        },
+        {
+          "id": "com.starfish_studios:naturalist:4.0.3@jar",
+          "name": "Naturalist",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3343324,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/naturalist-forge-4.0.3-1.20.1.jar",
+            "MD5": "d41bf9911d5873965c66389944fdb042"
+          }
+        },
+        {
+          "id": "dev.tonimatas:packetfixer:1.3.1@jar",
+          "name": "Packet Fixer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18570,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/packetfixer-forge-1.3.1-1.19-to-1.20.1.jar",
+            "MD5": "6d1c95a8f89a4d4af8273a10bd16b599"
+          }
+        },
+        {
+          "id": "net.threetag:palladium:4.0.9@jar",
+          "name": "Palladium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2441260,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/palladium-4.0.9+1.20.1-forge.jar",
+            "MD5": "176c529784af89dbac390b0b4e50c5da"
+          }
+        },
+        {
+          "id": "vazkii.patchouli:patchouli:1.20.1-84-FORGE@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642506,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/Patchouli-1.20.1-84-FORGE.jar",
+            "MD5": "64452a4404a2c47a782ba99cb90c3ca0"
+          }
+        },
+        {
+          "id": "virtuoel.pehkui:pehkui:3.8.0+1.20.1-forge@jar",
+          "name": "Pehkui",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 633030,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/Pehkui-3.8.0+1.20.1-forge.jar",
+            "MD5": "8097e2e4b41322fe1029511e68f6ee6d"
+          }
+        },
+        {
+          "id": "com.teamabnormals.personality.core:personality:4.0.0@jar",
+          "name": "Personality",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 292463,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/personality-1.20.1-4.0.0.jar",
+            "MD5": "185afb5bbeb9bdeafe2517c2bed3f8ee"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.0.9@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11442582,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/optionalon/plasmovoice-forge-1.20.1-2.0.9.jar",
+            "MD5": "b11441eb283cbb63d49811c466a99ba3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.modrinth.sk4ifzgy:mr_remove_terralithintromessage:1.0@jar",
+          "name": "Remove Terralith Intro Message",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95951,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/remove-terralith-intro-message-1.0.jar",
+            "MD5": "80483d1264fdd442968d5ceea7300099"
+          }
+        },
+        {
+          "id": "dev.latvian.mods.rhino.mod:rhino:2001.2.2-build.18@jar",
+          "name": "Rhino",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1782275,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/rhino-forge-2001.2.2-build.18.jar",
+            "MD5": "d0ee9715edfcb029f59687a08fb88a53"
+          }
+        },
+        {
+          "id": "com.railwayteam:railways:1.6.3+forge-mc1.20.1@jar",
+          "name": "Create: Steam 'n' Rails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9072462,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/Steam_Rails-1.6.3+forge-mc1.20.1.jar",
+            "MD5": "add7f314442910a763360d4bd24661db"
+          }
+        },
+        {
+          "id": "net.stardustlabs:terralith:2.4.11@jar",
+          "name": "Terralith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2478785,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/Terralith_1.20.4_v2.4.11.jar",
+            "MD5": "d05262a405a2c1e17f10eb4d4cf96797"
+          }
         }
       ]
     }
