@@ -744,6 +744,16 @@
           }
         },
         {
+          "id": "me.edoren:skin_changer:0.6.0@jar",
+          "name": "Skin Changer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 56266,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/skin_changer-0.6.0.jar",
+            "MD5": "21ceebe9ce53368fb2568c132c54906a"
+          }
+        },
+        {
           "id": "dev.tr7zw.skinlayers:skinlayers3d:1.6.4@jar",
           "name": "3d-Skin-Layers",
           "type": "ForgeMod",
