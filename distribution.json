@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://democraft.fr/api/rss",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "949625045729288192",
+    "smallImageText": "Sur le DreamCloud Launcher",
+    "smallImageKey": "launcher"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "odyssey.vaatigames.ovh:25510",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "launcher",
+        "largeImageText": "Joue à Magic & Steams (S2)",
+        "largeImageKey": "magicsteams"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -543,6 +543,20 @@
           }
         },
         {
+          "id": "traben.entity_texture_features:entity_texture_features:6.0.1@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 557480,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/optionaloff/entity_texture_features_forge_1.20.1-6.0.1.jar",
+            "MD5": "970a3ca7bfdc3d18dce0ea375f085e7f"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.6.2@jar",
           "name": "EntityCulling",
           "type": "ForgeMod",
@@ -730,6 +744,20 @@
           }
         },
         {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.6.4@jar",
+          "name": "3d-Skin-Layers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 475379,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/optionaloff/skinlayers3d-forge-1.6.4-mc1.20.1.jar",
+            "MD5": "4ced7dc4498822faab058122dd025a1c"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "com.railwayteam:railways:1.6.3+forge-mc1.20.1@jar",
           "name": "Create: Steam 'n' Rails",
           "type": "ForgeMod",
@@ -747,6 +775,20 @@
             "size": 2478785,
             "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/Terralith_1.20.4_v2.4.11.jar",
             "MD5": "d05262a405a2c1e17f10eb4d4cf96797"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimapfair:24.1.1@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1442659,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/optionaloff/Xaeros_Minimap_FP24.1.1_Forge_1.20.jar",
+            "MD5": "d32b1bcdd255f8c4a9d717197103d4a5"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         }
       ]
