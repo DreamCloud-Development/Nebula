@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "net.mcreator.abandonedurban:abandoned_urban:1.0.0@jar",
+          "name": "Abandoned urban",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 244395,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/abandoned_urban-1.1.0-forge-1.20.1.jar",
+            "MD5": "ea2287de280920efe5a43003cc317fde"
+          }
+        },
+        {
           "id": "dev.architectury:architectury:9.2.14@jar",
           "name": "Architectury",
           "type": "ForgeMod",
@@ -648,6 +658,16 @@
             "size": 1651674,
             "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.7.jar",
             "MD5": "af76fc8f23458213eaae50a6af2cb277"
+          }
+        },
+        {
+          "id": "l_g_c:l_g_c:0.6@jar",
+          "name": "Luki's Grand Capitals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2194783,
+            "url": "https://raw.githubusercontent.com/DreamCloud-Development/Nebula/master/servers/MAGICSTEAMS-1.20.1/forgemods/required/luki-s-grand-capitals-0.6-forge-1.19-1.20.1.jar",
+            "MD5": "8bc31625d2c62d5b872f2cd9f1e21013"
           }
         },
         {
